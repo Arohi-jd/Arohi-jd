@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arohi Jadhav</h1>
 <h3 align="center">I’m Arohi Santosh Jadhav, a tech enthusiast, entrepreneur, and leader, heading NST-SDC and pioneering projects like SETU and KASS Beauty. As an SIH runner-up, I thrive on solving real-world problems through innovation.rontend developer from India</h3>
+<img src="![image](https://github.com/user-attachments/assets/43007edd-e846-40d3-aada-b3aa4a0d7fd8)
+" alt="img"/>
 
 - 🔭 I’m currently working on [Navsmart](https://nav-smart-projects.vercel.app/)
 
