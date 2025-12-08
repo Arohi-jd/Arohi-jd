@@ -4,7 +4,7 @@
 
 - 🔭 I have worked on [Navsmart](https://nav-smart-projects.vercel.app/)
 
-- 🌱 I’m currently learning **Quasar,React.js,Dsa,DJANGO**
+- 🌱 I’m currently learning **Quasar,React.js,DJANGO**
 
 - 👯 I’m looking to collaborate on **Kass Beauty**
 
