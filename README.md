@@ -11,22 +11,7 @@
 ## 🧠 My Focus Areas
 -  Full-Stack Web Development 
 - AI/ML Integration 
-- Open Source 
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-	<a href="https://github.com/Arohi-jd">
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arohi-jd&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Arohi-jd's GitHub Stats" />
-	</a>
-	<img src="https://streak-stats.demolab.com/?user=Arohi-jd&theme=dracula&hide_border=true&cache_seconds=86400" alt="Arohi-jd's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-	<img src="https://trophy.ryglcloud.net/?username=Arohi-jd&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arohi Jadhav's GitHub Trophies" />
-</p>
-<div align="center">
-	<img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+- Open Source
 
 
 ## 🛠️ Tech Stack
@@ -71,6 +56,21 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+	<a href="https://github.com/Arohi-jd">
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arohi-jd&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10" alt="Arohi-jd's GitHub Stats" />
+	</a>
+	<img src="https://streak-stats.demolab.com/?user=Arohi-jd&theme=dracula&hide_border=true&cache_seconds=86400" alt="Arohi-jd's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+	<img src="https://trophy.ryglcloud.net/?username=Arohi-jd&theme=dracula&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Arohi Jadhav's GitHub Trophies" />
+</p>
+<div align="center">
+	<img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
 <p align="center">
 	<a href="https://github.com/Arohi-jd">
