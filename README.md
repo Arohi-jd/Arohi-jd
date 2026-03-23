@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Arohi%20Jadhav&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-	<a href="https://komarev.com/ghpvc/?username=Arohi-jd">
-		<img src="https://komarev.com/ghpvc/?username=Arohi-jd&label=Profile%20views&color=00FFFF&style=flat-square" alt="Arohi-jd's profile views" />
-	</a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
@@ -15,9 +9,9 @@
 
 
 ## 🧠 My Focus Areas
-- 🌐 Full-Stack Web Development — React, Node.js, TypeScript, PostgreSQL
-- 🤖 AI/ML Integration — LLMs, Gemini API, fraud detection, intelligent systems
-- 🌱 Open Source — contributing, collaborating & growing in public
+-  Full-Stack Web Development 
+- AI/ML Integration 
+- Open Source 
 
 
 ## 📊 GitHub Stats & Trophies
